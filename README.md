@@ -28,4 +28,6 @@ Should cause a conflict and we can learn!
 I am now in the readme after getting the merge conflict. It automatically showed the differences between the files
 here in the editor, which is awesome! Now I will edit it to be clean and ready for merging.
 
-Here I am using the browser interface to update the readme. This way I can practice git pull in my terminal.
+Here I am using the browser interface to update the readme. This way I can practice git fetch and merge in my terminal.
+
+Now this is an addition to practice git pull. Previously I went through the individual steps of git fetch and git merge. Now I will just use git pull.

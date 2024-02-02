@@ -31,3 +31,6 @@ here in the editor, which is awesome! Now I will edit it to be clean and ready f
 Here I am using the browser interface to update the readme. This way I can practice git fetch and merge in my terminal.
 
 Now this is an addition to practice git pull. Previously I went through the individual steps of git fetch and git merge. Now I will just use git pull.
+
+# this is a test of a git push
+*I am changing the readme in neovim in my terminal and will git push afterwards.*

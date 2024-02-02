@@ -4,11 +4,13 @@
 
 But we will start with a README file.
 
-'''bash
+```bash
 
 git add README.md
 
-'''
+```
+*first time I wrote this little code window, I used apostrophes. I had to go to some big repo and look at their readme to learn they
+are back ticks and not apostrophes.*
 
 ### This is just a change to test the git commit -a option
 Which just commits all files that are already tracked and have been changed.
